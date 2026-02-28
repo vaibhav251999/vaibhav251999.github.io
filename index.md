@@ -19,7 +19,7 @@ title: Vaibhav Kumar Gupta | Data Scientist & Data Engineering Consultant
 <section class="section fade-in">
   <h3>Professional Summary</h3>
   <p>
-    Dynamic <strong>Consultant</strong> with 2+ years of experience in
+    Dynamic <strong>Consultant</strong> with 3+ years of experience in
     <strong>Data Analytics, Data Science, and Data Engineering</strong>.
     Proven ability to build scalable data models, predictive solutions,
     and automation pipelines that drive measurable business outcomes.

@@ -7,7 +7,7 @@ title: Vaibhav Kumar Gupta | Data Scientist & Data Engineering Consultant
   <h1>Vaibhav Kumar Gupta</h1>
   <h2>Data Scientist & Data Engineering Consultant</h2>
   <p class="subtitle">
-    2+ Years Experience · Cloud Data Engineering · Machine Learning · Azure & Databricks
+    3+ Years Experience · Cloud Data Engineering · Machine Learning · Azure & Databricks
   </p>
 
   <div class="hero-actions">

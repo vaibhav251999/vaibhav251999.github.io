@@ -67,6 +67,6 @@ Results-driven **Data Scientist** at **Logic Pursuits** with a robust background
 ---
 
 ## 📬 Connect with Me
-*   **LinkedIn:** [://linkedin.com](https://in.://linkedin.com](https://www.linkedin.com/in/vaibhav-kumar-gupta-ds))
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vaibhav-kumar-gupta-ds)
 *   **Company:** [Logic Pursuits](https://www.logicpursuits.com)
 

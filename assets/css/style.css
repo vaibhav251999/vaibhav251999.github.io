@@ -1,0 +1,93 @@
+:root {
+  --bg: #0b0f19;
+  --card: #121829;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --accent: #6366f1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, system-ui, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero h2 {
+  color: var(--accent);
+}
+
+.subtitle {
+  color: var(--muted);
+}
+
+.hero-actions {
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  margin: 0 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.primary {
+  background: var(--accent);
+  color: white;
+}
+
+.outline {
+  border: 2px solid var(--accent);
+  color: var(--accent);
+}
+
+.section {
+  margin: 4rem 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+  gap: 1rem;
+}
+
+.card {
+  background: var(--card);
+  padding: 1.5rem;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+}
